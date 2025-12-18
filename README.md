@@ -7,8 +7,9 @@
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY290Y3loMzVienU0dm83bzZ3NzE0dXI1MXc2NGY5MGZxaWdmM3c5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oTxC9wiRnU4ajy8u4m/giphy.gif" width="350">
-  <img src="./stray-stray-game.gif" width="350">
+  <img src="https://github.com/Ermeje/CPE-310-2526A/blob/main/stray-stray-game.gif" width="350">
 </p>
+
 
 <!-- Header Section with a subtle background color -->
 <div align="center" style="background-color: #f0fff4; padding: 20px; border-radius: 10px;">
