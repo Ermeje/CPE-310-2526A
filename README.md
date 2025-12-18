@@ -1,6 +1,14 @@
 # CPE-310-2526A
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JzZ3plOWNoZzRqaWtpam01N2djNGlzbGtoa2tsYXlnNGpwbTk2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jF3H4rNTuhHWUS0mXG/giphy.gif" width="350">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW14azJndGJjOXNsNGx4Mjh4enByNmFscXhoa2pqZ2I4d2NzYTk4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OQUQhxpxImEm2vBMOc/giphy.gif" width="350">
+</p>
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY290Y3loMzVienU0dm83bzZ3NzE0dXI1MXc2NGY5MGZxaWdmM3c5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oTxC9wiRnU4ajy8u4m/giphy.gif" width="350">
+  <img src="./stray-stray-game.gif" width="350">
+</p>
 
 <!-- Header Section with a subtle background color -->
 <div align="center" style="background-color: #f0fff4; padding: 20px; border-radius: 10px;">
@@ -16,7 +24,7 @@
 <div style="border: 2px solid #007acc; padding: 15px; border-radius: 15px; margin: 20px 0;">
   <h2 style="color: #007acc;">🚀 About Me</h2>
   <p>
-    I am an Industrial Engineering student at <b>[Your University Name]</b>. My passion is applying quantitative methods and data analysis to improve efficiency, quality, and productivity in complex systems. I thrive on solving real-world operational challenges.
+    I am an Industrial Engineering student at <b>TIP</b>. My passion is applying quantitative methods and data analysis to improve efficiency, quality, and productivity in complex systems. I thrive on solving real-world operational challenges.
   </p>
   <ul>
     <li>🔭 I’m currently optimizing a supply chain simulation model for a class project.</li>
